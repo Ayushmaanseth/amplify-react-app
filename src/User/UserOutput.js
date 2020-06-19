@@ -8,3 +8,5 @@ const UserOutput = (props) => {
         </diV>
     );
 }
+
+export default UserOutput;

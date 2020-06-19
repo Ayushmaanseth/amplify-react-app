@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 const UserInput = () => {
-    return <input type="text" onChange={props.changed} value={props.currentusername}> Username </input>
+    return <input type="text"> </input>
 }
 
 export default UserInput
